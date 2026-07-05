@@ -8,9 +8,9 @@
 <p align="center">
   <a href="https://github.com/JoacoRivera">GitHub</a>
   ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/joaquinriveralopez/">LinkedIn</a>
   ·
-  <a href="mailto:YOUR-EMAIL-HERE">Email</a>
+  <a href="mailto:joaquinrivlop@gmail.com">Email</a>
 </p>
 
 ---
