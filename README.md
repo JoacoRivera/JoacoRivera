@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joaquín Rivera 👋</h1>
+<h1 align="center">Hi, I'm Joaquín Rivera</h1>
 
 <p align="center">
   <strong>Senior Software Engineer & Technical Lead</strong><br />
