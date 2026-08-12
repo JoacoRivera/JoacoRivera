@@ -41,7 +41,7 @@ Recently, I've been focused on **AI-assisted engineering workflows**, agentic de
 | Area | Tools & Experience |
 |---|---|
 | Frontend | Angular, TypeScript, RxJS, HTML, CSS |
-| Backend | C#, .NET, VB.NET, NestJS, Node.js |
+| Backend | C#, .NET, VB.NET, NestJS, Node.js, PHP |
 | Databases | SQL Server, MySQL, query optimization, reporting, data integrity |
 | Architecture | Enterprise application design, APIs, integrations, multi-tenant SaaS concepts |
 | Delivery | Git, pull requests, code reviews, documentation, project slicing, technical handoffs |
